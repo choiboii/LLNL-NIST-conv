@@ -1,0 +1,9 @@
+# P at 1 bar, Solid
+# Atomic Number: 15
+# Atomic Mass: 30.973761998
+# Source: nist.gov
+# black phase; Data last reviewed in June, 1961
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+298.0			2.7145			-0.0000			22.57			-0.0
+300.0			2.7326			0.4146			22.72			0.04

@@ -1,0 +1,15 @@
+# Na at 1 bar, Liquid
+# Atomic Number: 11
+# Atomic Mass: 22.98976928
+# Source: nist.gov
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+371.0			7.8081			24.3560			64.92			2.35
+400.0			8.0955			33.8912			67.31			3.27
+500.0			8.9290			66.1240			74.24			6.38
+600.0			9.5893			97.3205			79.73			9.39
+700.0			10.1354			127.7915		84.27			12.33
+800.0			10.6020			157.9515		88.15			15.24
+900.0			11.0109			187.9042		91.55			18.13
+1000.0			11.3778			217.8570		94.6			21.02
+1100.0			11.7121			248.0170		97.38			23.93

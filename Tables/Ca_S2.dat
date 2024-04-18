@@ -1,0 +1,18 @@
+# Ca at 1 bar, Solid
+# Atomic Number: 20
+# Atomic Mass: 40.078
+# Source: nist.gov
+# «beta» phase; Data last reviewed in September, 1983
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+298.0			5.1777			-0.1036			43.05			-0.01
+300.0			5.1994			0.4146			43.23			0.04
+400.0			6.1098			27.7762			50.8			2.68
+500.0			6.8531			56.4853			56.98			5.45
+600.0			7.4954			86.8526			62.32			8.38
+700.0			8.0631			118.6709		67.04			11.45
+716.0			8.1448			123.6457		67.72			11.93
+800.0			8.5790			152.0438		71.33			14.67
+900.0			9.0782			188.5261		75.48			18.19
+1000.0			9.5629			228.1176		79.51			22.01
+1100.0			10.0355			270.9220		83.44			26.14

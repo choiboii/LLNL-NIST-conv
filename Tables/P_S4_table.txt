@@ -1,0 +1,4 @@
+# Temperature C S G/T H-H298.15
+# white phase; Data last reviewed in June, 1961
+298.     23.84     41.06     41.08     -0.01
+300.     23.88     41.22     41.08     0.04

@@ -1,0 +1,4 @@
+# Temperature C S G/T H-H298.15
+# orthorhombic phase; Data last reviewed in September, 1977
+298.     22.70     32.05     32.06     -0.00
+300.     22.74     32.20     32.06     0.04

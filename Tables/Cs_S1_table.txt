@@ -1,0 +1,4 @@
+# Temperature C S G/T H-H298.15
+# Data last reviewed in June, 1968
+298.     32.23     85.14     85.15     -0.00
+300.     32.36     85.35     85.15     0.06

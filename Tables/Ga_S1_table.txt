@@ -1,0 +1,4 @@
+# Temperature C S G/T H-H298.15
+# Data last reviewed in June, 1983
+298.     26.03     40.82     40.84     -0.01
+300.     26.09     40.99     40.84     0.05

@@ -1,0 +1,9 @@
+# S at 1 bar, Solid
+# Atomic Number: 16
+# Atomic Mass: 32.06
+# Source: nist.gov
+# orthorhombic phase; Data last reviewed in September, 1977
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+298.0			3.8547			-0.0000			32.05			-0.0
+300.0			3.8728			0.4146			32.2			0.04

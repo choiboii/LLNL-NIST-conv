@@ -1,0 +1,12 @@
+# Pb at 1 bar, Solid
+# Atomic Number: 82
+# Atomic Mass: 207.2
+# Source: nist.gov
+# Data last reviewed in March, 1962
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+298.0			7.7900			-0.1036			64.77			-0.01
+300.0			7.8117			0.5182			64.95			0.05
+400.0			8.7546			28.7090			72.79			2.77
+500.0			9.5087			57.9363			79.06			5.59
+600.0			10.1438			87.9927			84.34			8.49

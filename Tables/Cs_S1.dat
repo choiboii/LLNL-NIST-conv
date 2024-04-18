@@ -1,0 +1,9 @@
+# Cs at 1 bar, Solid
+# Atomic Number: 55
+# Atomic Mass: 132.90545196
+# Source: nist.gov
+# Data last reviewed in June, 1968
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+298.0			10.2400			-0.0000			85.14			-0.0
+300.0			10.2652			0.6219			85.35			0.06

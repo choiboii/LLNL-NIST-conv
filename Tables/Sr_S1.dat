@@ -1,0 +1,16 @@
+# Sr at 1 bar, Solid
+# Atomic Number: 38
+# Atomic Mass: 87.62
+# Source: nist.gov
+# «alpha» phase; Data last reviewed in September, 1983
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+298.0			6.6968			-0.0000			55.68			-0.0
+300.0			6.7184			0.5182			55.86			0.05
+400.0			7.6613			28.8127			63.7			2.78
+500.0			8.4203			58.1436			70.01			5.61
+600.0			9.0625			88.5109			75.35			8.54
+700.0			9.6242			119.9146		80.02			11.57
+800.0			10.1281			152.4584		84.21			14.71
+900.0			10.5888			186.1423		88.04			17.96
+1000.0			11.0145			220.9662		91.58			21.32

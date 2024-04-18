@@ -1,0 +1,15 @@
+# Al at 1 bar, Solid
+# Atomic Number: 13
+# Atomic Mass: 26.9815385
+# Source: nist.gov
+# Data last reviewed in June, 1983
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+298.0			3.3989			-0.0000			28.26			-0.0
+300.0			3.4181			0.4146			28.42			0.04
+400.0			4.2853			26.4289			35.63			2.55
+500.0			4.9913			53.7906			41.5			5.19
+600.0			5.5915			82.0850			46.49			7.92
+700.0			6.1183			111.6232		50.87			10.77
+800.0			6.5969			142.5087		54.85			13.75
+900.0			7.0419			175.0525		58.55			16.89

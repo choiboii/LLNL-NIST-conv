@@ -1,0 +1,10 @@
+# Li at 1 bar, Solid
+# Atomic Number: 3
+# Atomic Mass: 6.94
+# Source: nist.gov
+# Data last reviewed in June, 1962
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+298.0			3.4963			-0.0000			29.07			-0.0
+300.0			3.5168			0.5182			29.24			0.05
+400.0			4.4140			27.4653			36.7			2.65

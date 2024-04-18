@@ -1,0 +1,18 @@
+# Ba at 1 bar, Solid
+# Atomic Number: 56
+# Atomic Mass: 137.327
+# Source: nist.gov
+# Data last reviewed in December, 1970
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+298.0			7.5134			-0.0000			62.47			-0.0
+300.0			7.5351			0.5182			62.65			0.05
+400.0			8.5742			31.8183			71.29			3.07
+500.0			9.5941			71.4098			79.77			6.89
+583.0			10.4998			113.7997		87.3			10.98
+600.0			10.6140			119.7073		88.25			11.55
+700.0			11.3188			159.1952		94.11			15.36
+768.0			11.8156			190.5989		98.24			18.39
+800.0			12.0068			203.5543		99.83			19.64
+900.0			12.5564			244.0786		104.4			23.55
+1000.0			13.0616			284.6029		108.6			27.46

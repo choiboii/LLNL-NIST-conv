@@ -1,0 +1,13 @@
+# Ca at 1 bar, Liquid
+# Atomic Number: 20
+# Atomic Mass: 40.078
+# Source: nist.gov
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+1115.0			11.0266			296.3145		91.68			28.59
+1200.0			11.3357			327.2000		94.25			31.57
+1300.0			11.6724			363.4750		97.05			35.07
+1400.0			11.9839			399.7499		99.64			38.57
+1500.0			12.2798			436.0249		102.1			42.07
+1600.0			12.5444			472.2998		104.3			45.57
+1700.0			12.7970			508.5748		106.4			49.07

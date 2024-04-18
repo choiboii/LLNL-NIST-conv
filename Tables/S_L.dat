@@ -1,0 +1,13 @@
+# S at 1 bar, Liquid
+# Atomic Number: 16
+# Atomic Mass: 32.06
+# Source: nist.gov
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+388.0			5.2776			24.9779			43.88			2.41
+400.0			5.3882			28.8127			44.8			2.78
+432.0			5.7117			40.5243			47.49			3.91
+500.0			6.4394			69.6479			53.54			6.72
+600.0			7.2296			106.8556		60.11			10.31
+700.0			7.8454			141.2650		65.23			13.63
+800.0			8.3613			174.6380		69.52			16.85

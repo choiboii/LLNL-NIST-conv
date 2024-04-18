@@ -1,0 +1,9 @@
+# Rb at 1 bar, Solid
+# Atomic Number: 37
+# Atomic Mass: 85.4678
+# Source: nist.gov
+# Data last reviewed in December, 1983
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+298.0			9.2321			-0.0000			76.76			-0.0
+300.0			9.2574			0.6219			76.97			0.06

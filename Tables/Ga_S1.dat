@@ -1,0 +1,9 @@
+# Ga at 1 bar, Solid
+# Atomic Number: 31
+# Atomic Mass: 69.723
+# Source: nist.gov
+# Data last reviewed in June, 1983
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+298.0			4.9095			-0.1036			40.82			-0.01
+300.0			4.9300			0.5182			40.99			0.05

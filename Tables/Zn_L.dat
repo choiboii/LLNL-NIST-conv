@@ -1,0 +1,12 @@
+# Zn at 1 bar, Liquid
+# Atomic Number: 30
+# Atomic Mass: 65.38
+# Source: nist.gov
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+693.0			9.0397			120.5365		75.16			11.63
+700.0			9.0794			122.9202		75.49			11.86
+800.0			9.5833			155.3604		79.68			14.99
+900.0			10.0283			187.9042		83.38			18.13
+1000.0			10.4252			220.4480		86.68			21.27
+1100.0			10.7848			252.9918		89.67			24.41

@@ -1,0 +1,15 @@
+# Mg at 1 bar, Solid
+# Atomic Number: 12
+# Atomic Mass: 24.305
+# Source: nist.gov
+# Data last reviewed in September, 1983
+# Unit Conversion Factors: 1 J/mol*K = 0.1203 kB/atom   |   1 kJ/mol = 1/10.3644 meV/atom
+# Temperature (K)	Entropy (kB/atom)	Enthalpy (meV/atom)	Entropy (J/mol*K)	Enthalpy(kJ/mol)
+298.0			3.9281			-0.0000			32.66			-0.0
+300.0			3.9473			0.5182			32.82			0.05
+400.0			4.8313			26.9471			40.17			2.6
+500.0			5.5470			54.6197			46.12			5.27
+600.0			6.1531			83.3287			51.16			8.04
+700.0			6.6847			113.0742		55.58			10.91
+800.0			7.1646			143.9597		59.57			13.89
+900.0			7.6060			176.2962		63.24			17.01

@@ -1,0 +1,4 @@
+# Temperature C S G/T H-H298.15
+# monoclinic phase; Data last reviewed in September, 1977
+298.     23.23     33.02     33.03     -0.00
+300.     23.28     33.18     33.03     0.04

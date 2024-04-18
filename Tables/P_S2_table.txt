@@ -1,0 +1,4 @@
+# Temperature C S G/T H-H298.15
+# red, iv phase; Data last reviewed in June, 1961
+298.     21.26     23.18     23.20     -0.00
+300.     21.31     23.32     23.20     0.04
